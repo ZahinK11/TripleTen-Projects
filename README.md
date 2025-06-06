@@ -3,7 +3,7 @@ Portfolio of completed projects I worked on while attending the BI Analytics Tri
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 0 | [Freshbeats project](https://github.com/ZahinK11/TripleTen-Projects/tree/main/Freshbeats%20project) | DESCRIPTION HERE. |
+| 0 | [Freshbeats project](https://github.com/ZahinK11/TripleTen-Projects/tree/main/Freshbeats%20project) | HellO. |
 | 1 | [Airbnb project](https://github.com/ZahinK11/TripleTen-Projects/tree/main/Airbnb%20project) | DESCRIPTION HERE. |
 | 2 | [Zuber project](https://github.com/ZahinK11/TripleTen-Projects/tree/main/Zuber%20project) | DESCRIPTION HERE. |
 | 3 | [BIA ecommerce project](https://github.com/ZahinK11/TripleTen-Projects/tree/main/BIA%20ecommerce%20project) | DESCRIPTION HERE. |
